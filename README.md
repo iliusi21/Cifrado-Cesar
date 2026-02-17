@@ -1,4 +1,4 @@
-te proyecto implementa el algoritmo clásico de Cifrado César, un método de cifrado por sustitución donde cada letra del texto original se desplaza un número determinado de posiciones dentro del alfabeto.
+El proyecto implementa el algoritmo clásico de Cifrado César, un método de cifrado por sustitución donde cada letra del texto original se desplaza un número determinado de posiciones dentro del alfabeto.
 
 El programa permite:
 
