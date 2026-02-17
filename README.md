@@ -73,7 +73,7 @@ O simplemente descargar el archivo .py.
 
 Ejemplo:
 
-cd cifrado-cesar
+cd ejercicio cesar.py
 
  Ejecutarlo
 python main.py
